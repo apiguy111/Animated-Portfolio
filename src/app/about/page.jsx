@@ -42,7 +42,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              I'm Kuwar Shiv Pratap Singh, a versatile developer with expertise
+              Here Kuwar Shiv Pratap Singh, a versatile developer with expertise
               in React, Nextjs and React Native, backed by strong skills in
               JavaScript, Java. My proficiency extends to the server-side with
               Node, Express, and MongoDB. I excel in identifying and addressing
