@@ -51,7 +51,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              The more you do, the more it seems doable.{" "}
+              The more you do, the more it seems doable.
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
