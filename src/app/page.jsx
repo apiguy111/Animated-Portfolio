@@ -29,7 +29,7 @@ const Homepage = () => {
             tinkering with code and unraveling cybersecurity puzzles. With a
             knack for dissecting and fortifying digital systems, I spend my
             spare moments building and breaking down software, driven by a
-            relentless curiosity for technology's inner workings.
+            relentless curiosity for technologies inner workings.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
