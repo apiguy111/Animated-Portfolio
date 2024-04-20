@@ -25,7 +25,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-            I'm a web security enthusiast and passionate programmer, constantly
+            A web security enthusiast and passionate programmer, constantly
             tinkering with code and unraveling cybersecurity puzzles. With a
             knack for dissecting and fortifying digital systems, I spend my
             spare moments building and breaking down software, driven by a
